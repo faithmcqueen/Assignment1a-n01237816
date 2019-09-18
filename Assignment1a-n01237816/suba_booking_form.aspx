@@ -43,7 +43,7 @@
             </asp:DropDownList>
         </section>
         <section>
-            <p>Which time of day do you prefer for your dive?</p>
+            <p>Select which time of day do you prefer for your dive.</p>
             <asp:RadioButtonList runat="server" ID="aspx_dive_time">
                 <asp:ListItem Text="Morning" Value="morning"></asp:ListItem>
                 <asp:ListItem Text="Afternoon" Value="afternoon"></asp:ListItem>
