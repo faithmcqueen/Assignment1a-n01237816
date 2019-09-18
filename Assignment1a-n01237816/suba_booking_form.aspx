@@ -22,7 +22,7 @@
             <asp:TextBox runat="server" ID="aspx_email"></asp:TextBox>
         </section>
         <section>
-            <label>How many divers are in your party?</label>
+            <label>How many divers will be in your party?</label>
             <asp:DropDownList runat="server" ID="aspx_number_of_divers">
                 <asp:ListItem Text="1" Value="1"></asp:ListItem>
                 <asp:ListItem Text="2" Value="2"></asp:ListItem>
